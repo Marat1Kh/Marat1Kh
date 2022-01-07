@@ -1,5 +1,5 @@
 
-<h1> Hi there..! <img src="https://github.com/marat1kh/marat1kh/blob/master/Hi.gif" width="29px"> </h1>
+<h1> Hi there..! <img src="https://github.com/marat1kh/marat1kh/blob/main/Hi.gif" width="29px"> </h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=marat1kh alt=marat1kh> </p>
 
 **🔭 I’m currently working on my <a href="/"><b>Portfolio Website</b> </a> and Travel App with Flutter project**<br>
@@ -39,7 +39,7 @@
    <img align="left" alt="Marat KHairat | Linkedin" width="24px" src="https://github.com/marat1kh/marat1kh/blob/main/Linkedin.svg" />
   </a>
   <a href="mailto:maratkhayrat@gmail.com" target="_blank">
-    <img align="left" alt="Marat KHairat | Gmail" width="26px" src="https://github.com/marat1kh/marat1kh/blob/mainGmail.svg" />
+    <img align="left" alt="Marat KHairat | Gmail" width="26px" src="https://github.com/marat1kh/marat1kh/blob/main/Gmail.svg" />
   </a>
   <a href="https://www.instagram.com/maratella_/" target="_blank">
     <img align="left" alt="Marat KHairat | Instagram" width="24px" src="https://github.com/marat1kh/marat1kh/blob/main/Instagram.svg"  />
