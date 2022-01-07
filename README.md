@@ -3,7 +3,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=marat1kh alt=marat1kh> </p>
 
 **🔭 I’m currently working on my <a href="/"><b>Portfolio Website</b> </a> and Travel App with Flutter project**<br>
-**🌱 I’m currently learning Flutter**
+**🌱**
 <br>
 <br>
 **✨ Tech stacks currently learning and using** <br>
@@ -32,18 +32,17 @@
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=marat1kh&show_icons=true&hide_border=true)
 <br>
 <br>
-**💬 Ask me about anything, I'll be happy to help!** <br>
-**💬 My inbox is always open, Contact me**
+ <br>
 <br>
 <br> 
   <a href="https://in.linkedin.com/in/" target="_blank">
-   <img align="left" alt="Marat KHairat | Linkedin" width="24px" src="https://github.com/marat1kh/marat1kh/Linkedin.svg" />
+   <img align="left" alt="Marat KHairat | Linkedin" width="24px" src="https://github.com/marat1kh/marat1kh/blob/main/Linkedin.svg" />
   </a>
   <a href="mailto:maratkhayrat@gmail.com" target="_blank">
-    <img align="left" alt="Marat KHairat | Gmail" width="26px" src="https://github.com/marat1kh/marat1kh/Gmail.svg" />
+    <img align="left" alt="Marat KHairat | Gmail" width="26px" src="https://github.com/marat1kh/marat1kh/blob/mainGmail.svg" />
   </a>
   <a href="https://www.instagram.com/maratella_/" target="_blank">
-    <img align="left" alt="Marat KHairat | Instagram" width="24px" src="https://github.com/marat1kh/marat1kh/Instagram.svg"  />
+    <img align="left" alt="Marat KHairat | Instagram" width="24px" src="https://github.com/marat1kh/marat1kh/blob/main/Instagram.svg"  />
   </a>
 
 
